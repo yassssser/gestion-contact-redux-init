@@ -6,21 +6,21 @@ class Contacts extends Component {
     contacts: [
       {
         id: 1,
-        name: 'Mohamed IDBRAHIM',
-        email: 'idbrahimdev@gmail.com',
-        phone: '0650303315'
+        name: 'yasweb',
+        email: 'yasweb@gmail.com',
+        phone: '0666666'
       },
       {
         id: 2,
-        name: 'Basma IDBRAHIM',
-        email: 'basma@gmail.com',
-        phone: '0650303316'
+        name: 'yasweb react',
+        email: 'react@gmail.com',
+        phone: '07777777777'
       },
       {
         id: 3,
-        name: 'Walid IDBRAHIM',
-        email: 'walid@gmail.com',
-        phone: '0650303317'
+        name: 'yasweb symfony',
+        email: 'symfony@gmail.com',
+        phone: '08888888'
       }
     ]
   };
